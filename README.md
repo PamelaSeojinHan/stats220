@@ -4,4 +4,5 @@
 * *Major* : Information and Technology Management
 * *Location* : University of Auckland
 * *My favourite animal* :
-  ![panda](https://media.tenor.com/bC4aopuqkDAAAAAC/panda-cute.gif)
+
+![panda](https://media.tenor.com/bC4aopuqkDAAAAAC/panda-cute.gif)
